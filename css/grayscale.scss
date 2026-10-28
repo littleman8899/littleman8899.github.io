@@ -891,3 +891,16 @@ ul.list-inline {
 #contact p {
   margin-bottom: 4px !important;
 }
+/* Timeline force left align and tighter */
+.timeline-panel .timeline-heading,
+.timeline-panel .timeline-body {
+  text-align: left !important;
+}
+.timeline-body p {
+  text-align: left !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+.timeline > li .timeline-panel {
+  padding: 10px 15px !important;
+}
