@@ -67,12 +67,18 @@ cusdis-app-id: "d34a3968-9be5-46d7-98f1-c4263cd1a220"
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/default.png"
+    date: "2021 – 2026"
+    description: "Platform owner of global HRIS and OKEngine at OKX. Led end-to-end platform design, data governance, and automation across multiple regions."
+  - image: "/img/timeline/default.png"
+    date: "2018 – 2021"
+    description: "People Technology at Prudential. Delivered platform enhancements, process automation, and cross-functional system rollouts."
+  - image: "/img/timeline/default.png"
+    date: "2015 – 2018"
+    description: "People Analytics and Workday implementation at PwC. Built data models, reporting frameworks, and platform configuration for enterprise clients."
+  - image: "/img/timeline/default.png"
+    date: "2012 – 2015"
+    description: "HR systems and process improvement at Maeda and Binatone. Focused on operational efficiency and early digitalisation of HR processes."
 
 # First image of the Timeline
 timeline-img: "/img/timeline/default.png"
