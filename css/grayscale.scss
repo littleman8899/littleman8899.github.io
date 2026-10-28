@@ -804,3 +804,21 @@ body {
 .timeline-panel {
   margin-bottom: 15px !important;
 }
+/* Reduce large spacing */
+.content-section {
+  padding: 60px 0 !important;
+}
+
+header.intro {
+  min-height: 60vh !important;
+  padding-bottom: 40px !important;
+}
+
+/* Timeline left align */
+.timeline-panel {
+  text-align: left !important;
+}
+.timeline-heading,
+.timeline-body {
+  text-align: left !important;
+}
