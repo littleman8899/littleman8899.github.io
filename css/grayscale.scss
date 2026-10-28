@@ -843,6 +843,20 @@ header.intro {
 /* Timeline tighter */
 .timeline > li {
   margin-bottom: 30px !important;
+
+  .content-section {
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+}
+
+section {
+  margin-bottom: 0 !important;
+}
+
+header.intro {
+  min-height: 45vh !important;
+  padding-bottom: 20px !important;
+}
 }
 .timeline-panel {
   padding: 15px !important;
