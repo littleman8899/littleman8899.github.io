@@ -1,8 +1,8 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://le4ker.github.io"
-baseurl: "/personal-jekyll-theme"
+url: "https://littleman8899.github.io"
+baseurl: ""
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
@@ -12,10 +12,10 @@ google-tracking-id: "UA-XXXXXXXX-X"
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Sam Ling"
+title: "{ Sam Ling }"
+description: "Platforms, data, AI and automation practitioner. Building scalable systems and digital solutions across enterprise environments."
+keywords: "Sam Ling, platforms, enterprise systems, data analytics, AI, Agentic AI, RAP, UiPath, Power BI, HR Digitalization, automation, digital transformation, product thinking, Workday, process design"
 favicon: "/img/favicon.ico"
 ################
 # Header layout#
@@ -81,7 +81,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "lingkinka@gmail.com"
 
 ################
 # Author Blurb #
@@ -107,11 +107,9 @@ social:
   - icon: "github"
     url: "https://github.com/le4ker/personal-jekyll-theme"
   - icon: "linkedin-in"
-    url: "https://www.linkedin.com"
-  - icon: "x-twitter"
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/sam-ling-09242627/" 
   - icon: "rss"
-    url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+    url: "https://littleman8899.github.io/feed.xml"
 
 # NB! Tread carefully if you want to change the variables below this point!
 
@@ -120,6 +118,8 @@ pages_list:
   About: "about"
   Blog: "latest-post"
   Timeline: "timeline"
+  Skills: "sklls"
+  Project Highlight: "project-highlight"
   Contact: "contact"
 
 syntax_theme: everforest
