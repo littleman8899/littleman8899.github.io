@@ -125,7 +125,7 @@ pages_list:
   Blog: "latest-post"
   Timeline: "timeline"
   Skills: "sklls"
-  Project Highlight: "project-highlight"
+  Achievements: "achievements"
   Contact: "contact"
 
 syntax_theme: everforest
