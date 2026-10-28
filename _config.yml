@@ -81,7 +81,7 @@ events:
     description: "HR systems and process improvement at Maeda and Binatone. Focused on operational efficiency and early digitalisation of HR processes."
 
 # First image of the Timeline
-timeline-img: "/img/timeline/default.png"
+# timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
