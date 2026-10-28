@@ -822,3 +822,28 @@ header.intro {
 .timeline-body {
   text-align: left !important;
 }
+
+/* Force tighter spacing */
+header.intro {
+  min-height: 50vh !important;
+  height: auto !important;
+  padding-top: 80px !important;
+  padding-bottom: 30px !important;
+}
+
+.content-section {
+  padding-top: 50px !important;
+  padding-bottom: 50px !important;
+}
+
+.intro .intro-body {
+  padding-bottom: 20px !important;
+}
+
+/* Timeline tighter */
+.timeline > li {
+  margin-bottom: 30px !important;
+}
+.timeline-panel {
+  padding: 15px !important;
+}
