@@ -870,3 +870,24 @@ header.intro {
 ul.list-inline {
   margin-top: 10px !important;
 }
+
+/* Timeline alignment */
+.timeline-panel {
+  text-align: left !important;
+}
+.timeline-heading h4,
+.timeline-body p {
+  text-align: left !important;
+  margin-left: 0 !important;
+}
+.timeline-body {
+  padding-left: 0 !important;
+}
+
+/* Reduce contact spacing */
+#contact .content-section {
+  padding-bottom: 20px !important;
+}
+#contact p {
+  margin-bottom: 4px !important;
+}
