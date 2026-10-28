@@ -911,3 +911,39 @@ ul.list-inline {
 footer .social {
   margin-top: 8px !important;
 }
+
+/* Force spacing overrides */
+header.intro {
+  min-height: 55vh !important;
+  padding-top: 100px !important;
+  padding-bottom: 40px !important;
+}
+
+header.intro .intro-body {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.content-section {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+}
+
+#about,
+#skills,
+#achievements,
+#timeline,
+#contact {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+}
+
+/* Contact tighter */
+#contact p {
+  margin-top: 8px !important;
+  margin-bottom: 4px !important;
+}
+
+#contact .row {
+  margin-bottom: 0 !important;
+}
