@@ -796,3 +796,11 @@ body {
     min-height: 20rem;
   }
 }
+
+// add on 20261028 to adjust timeline spacing
+.timeline-body {
+  padding: 8px 0 !important;
+}
+.timeline-panel {
+  margin-bottom: 15px !important;
+}
