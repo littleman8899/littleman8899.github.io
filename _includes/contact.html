@@ -2,10 +2,11 @@
   <div class="row justify-content-center">
     <div class="col-md-8 col-12">
       <h2>Contact</h2>
+      <p class="mt-3 mb-2">Feel free to reach out if you’d like to discuss platforms, data, or collaboration opportunities.</p>
       {% if site.email %}
         {% if site.email contains '@' %}
           {% assign newemail = site.email | split: '@' %}
-          <p class="mt-2 mb-1">
+          <p class="mb-1">
             <script>
               function join_at_email(user, domain) {
                 return user && domain ? user + "@" + domain : "";
@@ -20,7 +21,7 @@
             </script>
           </p>
         {% else %}
-          <p class="mt-2 mb-1"><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+          <p class="mb-1"><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         {% endif %}
       {% endif %}
     </div>
